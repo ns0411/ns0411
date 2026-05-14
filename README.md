@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 DevOps Engineer at NIQ, building and operating scalable, highly available infrastructure for enterprise data platforms<br>🤖 Passionate about automation to improve reliability, efficiency, and deployment speed<br>⚙️ Experienced in automating infrastructure provisioning, CI/CD pipelines, and operational workflows using DevOps best practices<br>☁️ Hands-on with cloud platforms, containerization, and infrastructure as code<br>🤝 Collaborate closely with engineering, security, and data teams to reduce manual effort and streamline delivery<br>📊 Focused on observability, system reliability, and minimizing operational toil<br>🔁 Advocate for clean architecture, operational excellence, and continuous improvement
 
 
